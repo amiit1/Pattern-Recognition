@@ -140,13 +140,7 @@ fashion-mnist-cnn/
 ├── visualization_utils.py        # Helper functions for visualizations
 ├── requirements.txt              # Python dependencies
 ├── README.md                     # Project documentation
-│
-├── outputs/                      # Directory for saving outputs
-│   ├── model_comparison.png      # Training curves
-│   ├── accuracy_comparison.png   # Test accuracy comparison
-│   ├── CNN_ReLU_MaxPool*.png     # Outputs for specific models
-│
-└── data/                         # Placeholder for the dataset
+
 ```
 
 ---
