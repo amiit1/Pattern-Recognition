@@ -110,7 +110,7 @@ The models were evaluated based on accuracy and loss on both the training and va
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/amiit1/fashion-mnist-cnn.git
+   git clone https://github.com/amiit1/Pattern-Recognition.git
    cd Pattern_Recognition
    ```
 
